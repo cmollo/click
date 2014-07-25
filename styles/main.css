@@ -68,14 +68,7 @@ hr.divider {
  /*---------------
  * Game Canvas
  ----------------*/
-#canvas {
-	border-radius: 1em;
-
-	border: 1px dashed darkgray;
-
-	width:100%;
-	height: 450px;
-
+div#canvas {
 	overflow: hidden;
 }
 #canvas .todelete {
